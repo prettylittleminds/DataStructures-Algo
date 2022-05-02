@@ -30,7 +30,7 @@ Feel free to fork it and raise any issues if you deem something worthy of additi
 * [First Program](/Basics_Of_Cpp/First_Program)
 
 ### NeetCode List
-* [Classes & Objects](/OOP_Concepts/Introduction)
+* [dsa-neetcode](/dsa-neetcode)
 
 ### Striver's List
 * [Classes & Objects](/OOP_Concepts/Introduction)
