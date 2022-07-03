@@ -48,7 +48,7 @@ Enter number of terms: 15
 
 The value of e^x is: 54.5979
 
-Time Complexity: O(N)
+Time Complexity: O(N^2)
 Space Complexity: O(1)
 
 */
