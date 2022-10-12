@@ -25,21 +25,6 @@ Feel free to fork it and raise any issues if you deem something worthy of additi
 
 </div>
 
-# Code Structure
-### Basics of DSA
-* [First Program](/Basics_Of_Cpp/First_Program)
-
-### NeetCode List
-* [dsa-neetcode](/dsa-neetcode)
-
-### Striver's List
-* [Classes & Objects](/OOP_Concepts/Introduction)
-
-### LoveBabbar's List
-* [Classes & Objects](/OOP_Concepts/Introduction)
-
-
-The questions are classified according to the topics.
 
 # License
 
