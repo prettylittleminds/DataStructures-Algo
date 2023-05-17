@@ -26,21 +26,21 @@ class Solution {
 
 class Solution {
     public int pairSum(ListNode head) {
-        ArrayList<Integer> al = new ArrayList<Integer>();
+        ArrayList<Integer>  arr = new ArrayList<Integer>();
         while(head != null)
         {
-            al.add(head.val);
+            arr.add(head.val);
             head = head.next;
         }
         int i = 0;
-        int j = al.size()-1;
-        int sum = 0;
+        int j = arr.size() - 1;
+        int maxtwinsum = 0;
         while(i <= j)
         {
-            sum = Math.max(al.get(i)+al.get(j), sum);
+            maxtwinsum = Math.max(arr.get(i) + arr.get(j), maxtwinsum);
             i++;
             j--;
         }
-        return sum;
+        return maxtwinsum;
     }
 }
